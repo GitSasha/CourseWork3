@@ -1,0 +1,14 @@
+C:\Users\Aleksandra\source\repos\CourseWork3\PIZZAZZ\bin\Debug\PIZZAZZ.exe.config
+C:\Users\Aleksandra\source\repos\CourseWork3\PIZZAZZ\bin\Debug\PIZZAZZ.exe
+C:\Users\Aleksandra\source\repos\CourseWork3\PIZZAZZ\bin\Debug\PIZZAZZ.pdb
+C:\Users\Aleksandra\source\repos\CourseWork3\PIZZAZZ\obj\Debug\PIZZAZZ.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra\source\repos\CourseWork3\PIZZAZZ\obj\Debug\PIZZAZZ.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\source\repos\CourseWork3\PIZZAZZ\obj\Debug\PIZZAZZ.exe
+C:\Users\Aleksandra\source\repos\CourseWork3\PIZZAZZ\obj\Debug\PIZZAZZ.pdb
+D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ\bin\Debug\PIZZAZZ.exe.config
+D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ\bin\Debug\PIZZAZZ.exe
+D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ\bin\Debug\PIZZAZZ.pdb
+D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ\obj\Debug\PIZZAZZ.csprojResolveAssemblyReference.cache
+D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ\obj\Debug\PIZZAZZ.csproj.CoreCompileInputs.cache
+D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ\obj\Debug\PIZZAZZ.exe
+D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ\obj\Debug\PIZZAZZ.pdb

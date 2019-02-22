@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BB6926FD-9335-4AAF-8B4F-FC1528DB17E4}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>PIZZAZZ</RootNamespace>
+    <AssemblyName>PIZZAZZ</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Decorators\BaseIngredientDecorator.cs" />
+    <Compile Include="Decorators\Basil.cs" />
+    <Compile Include="Decorators\CheeseParmesan.cs" />
+    <Compile Include="Decorators\CheeseBrie.cs" />
+    <Compile Include="Decorators\CheeseMozarella.cs" />
+    <Compile Include="Decorators\CheeseRicotta.cs" />
+    <Compile Include="Decorators\Leek.cs" />
+    <Compile Include="Decorators\Lemon.cs" />
+    <Compile Include="Decorators\MeatBacon.cs" />
+    <Compile Include="Decorators\MeatChicken.cs" />
+    <Compile Include="Decorators\MeatGrilledChicken.cs" />
+    <Compile Include="Decorators\MeatHam.cs" />
+    <Compile Include="Decorators\MeatSmokedChicken.cs" />
+    <Compile Include="Decorators\MeetBeef.cs" />
+    <Compile Include="Decorators\MushroomsChampignon.cs" />
+    <Compile Include="Decorators\Lettuce.cs" />
+    <Compile Include="Decorators\Olives.cs" />
+    <Compile Include="Decorators\Oregano.cs" />
+    <Compile Include="Decorators\PepperBulgarian.cs" />
+    <Compile Include="Decorators\Pickles.cs" />
+    <Compile Include="Decorators\Pineapple.cs" />
+    <Compile Include="Decorators\Salami.cs" />
+    <Compile Include="Decorators\SalamiPepperoni.cs" />
+    <Compile Include="Decorators\SauceCream.cs" />
+    <Compile Include="Decorators\SauceTomato.cs" />
+    <Compile Include="Decorators\Sausages.cs" />
+    <Compile Include="Decorators\SausagesBavarian.cs" />
+    <Compile Include="Decorators\SausagesItalian.cs" />
+    <Compile Include="Decorators\SeaMussels.cs" />
+    <Compile Include="Decorators\SeaSquid.cs" />
+    <Compile Include="Decorators\SeaShrimp.cs" />
+    <Compile Include="Decorators\Tomatos.cs" />
+    <Compile Include="Dishes\BaseDish.cs" />
+    <Compile Include="Dishes\Pizza.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

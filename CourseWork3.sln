@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIZZAZZ", "PIZZAZZ\PIZZAZZ.csproj", "{BB6926FD-9335-4AAF-8B4F-FC1528DB17E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIZZAZZ_news", "PIZZAZZ_news\PIZZAZZ_news.csproj", "{B93F6B1E-705C-454D-957C-112AEF940780}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BB6926FD-9335-4AAF-8B4F-FC1528DB17E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB6926FD-9335-4AAF-8B4F-FC1528DB17E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB6926FD-9335-4AAF-8B4F-FC1528DB17E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93F6B1E-705C-454D-957C-112AEF940780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93F6B1E-705C-454D-957C-112AEF940780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93F6B1E-705C-454D-957C-112AEF940780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93F6B1E-705C-454D-957C-112AEF940780}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

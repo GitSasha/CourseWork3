@@ -7,7 +7,7 @@ namespace PIZZAZZ_news.Subscribers
     {
         private string _dmitry_k;
 
-        public void Update(string daria_m, string dmitry_k, string inna_s)
+        public void Update(string daria_m, string dmitry_k, string inna_s, string kristina_v, string matvey_b)
         {
             _dmitry_k = dmitry_k;
             Display();

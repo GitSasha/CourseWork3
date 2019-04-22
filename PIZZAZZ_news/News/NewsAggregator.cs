@@ -42,10 +42,12 @@ namespace PIZZAZZ_news.News
             string daria_m = GetPizzazzNews();
             string dmitry_k = GetPizzazzNews();
             string inna_s = GetPizzazzNews();
+            string kristina_v = GetPizzazzNews();
+            string matvey_b = GetPizzazzNews();
 
             foreach (var observer in _observers)
             {
-                observer.Update(daria_m, dmitry_k, inna_s);
+                observer.Update(daria_m, dmitry_k, inna_s, kristina_v, matvey_b);
             }
         }
 

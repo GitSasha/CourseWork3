@@ -50,6 +50,8 @@
     <Compile Include="Subscribers\DmitryK.cs" />
     <Compile Include="Subscribers\InnaS.cs" />
     <Compile Include="Subscribers\IObserver.cs" />
+    <Compile Include="Subscribers\KristinaV.cs" />
+    <Compile Include="Subscribers\MatveyB.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

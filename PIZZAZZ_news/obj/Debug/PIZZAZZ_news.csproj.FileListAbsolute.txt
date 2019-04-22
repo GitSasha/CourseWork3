@@ -1,7 +1,6 @@
 D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ_news\bin\Debug\PIZZAZZ_news.exe.config
 D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ_news\bin\Debug\PIZZAZZ_news.exe
 D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ_news\bin\Debug\PIZZAZZ_news.pdb
-D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ_news\obj\Debug\PIZZAZZ_news.csprojResolveAssemblyReference.cache
 D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ_news\obj\Debug\PIZZAZZ_news.csproj.CoreCompileInputs.cache
 D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ_news\obj\Debug\PIZZAZZ_news.exe
 D:\3_STUDY\УЧЕБА ЗАОЧКА\Курсовая 3 курс (ИПО)\CourseWork3_Project\PIZZAZZ_news\obj\Debug\PIZZAZZ_news.pdb
